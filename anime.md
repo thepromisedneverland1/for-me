@@ -1,0 +1,424 @@
+# Liste d'animes commencés
+
+*Liste triée par ordre alphabétique. « Commencés » signifie que j'ai vu au moins deux épisodes, pas forcément que j'ai terminé l'anime.*
+
+- 000 Gold in Another World for My Retirement
+- 20th Century Boys
+- 7th Time Loop
+- 86 Eighty-Six
+- 91 Days
+- A Returner's Magic Should Be Special
+- A Sign of Affection
+- A Silent Voice
+- Absolute Duo
+- Academy's Genius Swordmaster
+- Ace of Diamond
+- Afro Samurai
+- Air Gear
+- Akame ga Kill!
+- Akira
+- Akudama Drive
+- Aldnoah.Zero
+- Alya Sometimes Hides Her Feelings in Russian
+- Angel Beats!
+- Anohana
+- Another
+- Ao Ashi
+- Arifureta
+- Ascendance of a Bookworm
+- Assassination Classroom
+- Astro Boy
+- Attack on Titan
+- Baccano!
+- Baki
+- Bakuman
+- Banana Fish
+- Bastard
+- Beastars
+- Berserk
+- Beyblade
+- Black Clover
+- Black Lagoon
+- Black Summoner
+- Bleach
+- Bloom Into You
+- Blue Box
+- Blue Exorcist
+- Blue Lock
+- Blue Period
+- Bocchi the Rock!
+- BOFURI
+- Boruto
+- Btooom!
+- Bungou Stray Dogs
+- But Not Lovers
+- Call of the Night
+- Campfire Cooking in Another World with My Absurd Skill
+- Captain Tsubasa
+- Cardcaptor Sakura
+- Castlevania
+- Cautious Hero
+- Chainsaw Man
+- Charlotte
+- Chibi Maruko-chan.
+- Chillin' in Another World with Level 2 Super Cheat Powers
+- Chivalry of a Failed Knight
+- Chunibyo & Other Delusions!
+- Citrus
+- Clannad
+- Clannad After Story
+- Classroom of the Elite
+- Claymore
+- Code Geass
+- Cowboy Bebop
+- Crayon Shin-chan
+- Cyberpunk: Edgerunners
+- D.Gray-man
+- Dandadan
+- DanMachi
+- Darker than Black
+- Darling in the Franxx
+- Darwin's Game
+- Date A Live
+- Days
+- Deadman Wonderland
+- Death March to the Parallel World Rhapsody
+- Death Note
+- Death Parade
+- Delicious in Dungeon
+- Demon Slayer
+- Detective Conan
+- Devil May Cry
+- Devilman Crybaby
+- Didn't I Say to Make My Abilities Average in the Next Life?!
+- Digimon
+- Doctor Elise
+- Domestic Girlfriend
+- Don't Toy with Me
+- Doraemon
+- Dororo
+- Dr. Stone
+- Dragon Ball
+- Dragon Ball Super
+- Dragon Ball Z
+- Drifters
+- Dungeon Odyssey
+- Durarara!!
+- Edens Zero
+- Eleceed
+- Elfen Lied
+- Erased
+- Ergo Proxy
+- Eureka Seven
+- Eyeshield 21
+- Failure Frame
+- Fairy Tail
+- Farming Life in Another World
+- Fate/Apocrypha
+- Fate/stay night
+- Fate/Zero
+- Fire Force
+- Fist of the North Star
+- FLCL
+- Fluffy Paradise
+- Food Wars!
+- Four Knights of the Apocalypse
+- Free!
+- Frieren
+- Frieren: Beyond Journey's End
+- Fruits Basket
+- Fullmetal Alchemist
+- Fullmetal Alchemist Brotherhood
+- Gangsta.
+- Ghost in the Shell
+- Ghost in the Shell: Stand Alone Complex
+- Gintama
+- Girls' Last Tour
+- Goblin Slayer
+- Golden Kamuy
+- Golden Time
+- Gosick
+- Great Pretender
+- Great Teacher Onizuka
+- Grimgar
+- Grimgar: Ashes and Illusions
+- Guilty Crown
+- Gurren Lagann
+- Haikyuu
+- Hajime no Ippo
+- Happy Sugar Life
+- Heavenly Delusion
+- Hell's Paradise
+- Hellsing Ultimate
+- High School DxD
+- Highschool of the Dead
+- Higurashi When They Cry
+- History's Strongest Disciple Kenichi
+- Hitman Reborn!
+- Horimiya
+- How a Realist Hero Rebuilt the Kingdom
+- Hunter x Hunter
+- I Love Yoo
+- I Was Reincarnated as the 7th Prince
+- I've Been Killing Slimes for 300 Years and Maxed Out My Level
+- ID:INVADED
+- In Another World With My Smartphone
+- In the Land of Leadale
+- Inazuma Eleven
+- Infinite Mage
+- Initial D
+- Insomniacs After School
+- Inuyasha
+- Is It Wrong to Try to Pick Up Girls in a Dungeon?
+- Isekai Cheat Magician
+- JoJo's Bizarre Adventure
+- Jormungand
+- Jujutsu Kaisen
+- Just Because!
+- K-On!
+- Kaguya-sama: Love is War
+- Kaiba
+- Kaiju No. 8
+- Katekyo Hitman Reborn!
+- Kekkai Sensen
+- Kengan Ashura
+- Kenichi: The Mightiest Disciple
+- Kill la Kill
+- Kingdom
+- Kokoro Connect
+- Komi Can't Communicate
+- Konosuba
+- Kuma Kuma Kuma Bear
+- Kuroko no Basket
+- Land of the Lustrous
+- Legend of the Northern Blade
+- Leveling With the Gods
+- Link Click
+- Log Horizon
+- Lookism
+- Love
+- Lupin the Third
+- Lycoris Recoil
+- Made in Abyss
+- Magi
+- Magi: The Kingdom of Magic
+- Major
+- March Comes in Like a Lion
+- Mashle
+- Medaka Box
+- Megalo Box
+- Mercenary Enrollment
+- Mirai Nikki
+- Miss Nagatoro
+- Mob Psycho 100
+- Mobile Suit Gundam
+- Monster
+- More Than a Married Couple
+- Moriarty the Patriot
+- Murim Login
+- Mushoku Tensei
+- My Dress-Up Darling
+- My Happy Marriage
+- My Hero Academia
+- My Isekai Life
+- My Love Story with Yamada-kun at Lv999
+- My Next Life as a Villainess
+- Nana
+- Nano Machine
+- Naruto
+- Naruto Shippuden
+- Neon Genesis Evangelion
+- Nisekoi
+- No Game No Life
+- Noblesse
+- Noragami
+- Odd Taxi
+- Omniscient Reader
+- Omniscient Reader's Viewpoint
+- One Piece
+- One Punch Man
+- Orange
+- Oregairu
+- Oreshura
+- Oshi no Ko
+- Overlord
+- Paprika
+- Paranoia Agent
+- Parasyte
+- Perfect Blue
+- Pick Me Up
+- Ping Pong the Animation
+- Plastic Memories
+- Pluto
+- Pokémon
+- Prince of Tennis
+- Psycho-Pass
+- Questism
+- Radiant
+- Ranking of Kings
+- Rascal Does Not Dream of Bunny Girl Senpai
+- Rave Master
+- Re:Monster
+- Re:Zero
+- Reality Quest
+- Record of Ragnarok
+- Reincarnated as a Sword
+- ReLIFE
+- Rent-a-Girlfriend
+- Return of the Disaster-Class Hero
+- Returner's Magic Should Be Special
+- Run with the Wind
+- Rurouni Kenshin
+- Saekano
+- Saga of Tanya the Evil
+- Sailor Moon
+- Saint Seiya
+- Sakamoto Days
+- Samurai 7
+- Samurai Champloo
+- Saving 80
+- Sazae-san
+- School Days
+- Scum's Wish
+- Second Life Ranker
+- Seirei Gensouki
+- Seraph of the End
+- Serial Experiments Lain
+- Shaman King
+- Shangri-La Frontier
+- Shiki
+- Shotgun Boy
+- Sinbad no Bouken
+- Sk8 the Infinity
+- Skeleton Knight in Another World
+- Skip and Loafer
+- Slam Dunk
+- So I'm a Spider
+- So I'm a Spider So What?
+- So What?
+- Solo Leveling
+- Solo Leveling: Ragnarok
+- Solo Max-Level Newbie
+- Somali and the Forest Spirit
+- Sonny Boy
+- Soul Eater
+- Space Dandy
+- Spice and Wolf
+- Spirit Chronicles
+- Spy x Family
+- Steins;Gate
+- Strike the Blood
+- Summer Time Rendering
+- Summertime Rendering
+- Suzume
+- Sweet Home
+- Sword Art Online
+- Talentless Nana
+- Teenage Mercenary
+- Tensei Shitara Slime Datta Ken
+- Terror in Resonance
+- Texhnolyze
+- That Time I Got Reincarnated as a Slime
+- The 7th Prince
+- The 8th Son? Are You Kidding Me?
+- The Ancient Magus' Bride
+- The Angel Next Door Spoils Me Rotten
+- The Apothecary Diaries
+- The Aristocrat's Otherworldly Adventure
+- The Asterisk War
+- The Banished Former Hero Lives as He Pleases
+- The Beginning After the End
+- The Boxer
+- The Café Terrace and Its Goddesses
+- The Case Study of Vanitas
+- The Daily Life of the Immortal King
+- The Dangers in My Heart
+- The Dark Mage's Return to Enlistment
+- The Dark Swordsman Returns
+- The Demon Lord Retry!
+- The Demon Sword Master of Excalibur Academy
+- The Devil Is a Part-Timer!
+- The Do-Over Damsel Conquers the Dragon Emperor
+- The Eminence in Shadow
+- The Familiar of Zero
+- The Faraway Paladin
+- The Fruit of Evolution
+- The Future Diary
+- The Genius Prince's Guide to Raising a Nation Out of Debt
+- The Girl I Like Forgot Her Glasses
+- The God of High School
+- The Great Cleric
+- The Great Mage Returns After 4000 Years
+- The Greatest Demon Lord Is Reborn as a Typical Nobody
+- The Heavenly Demon Can't Live a Normal Life
+- The Hidden Dungeon Only I Can Enter
+- The Iceblade Sorcerer Shall Rule the World
+- The Irregular at Magic High School
+- The Law of Ueki
+- The Lone Necromancer
+- The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+- The Master of Ragnarok & Blesser of Einherjar
+- The Max-Level Hero Has Returned!
+- The Misfit of Demon King Academy
+- The New Gate
+- The Ossan Newbie Adventurer
+- The Pet Girl of Sakurasou
+- The Player Hides His Past
+- The Player Who Can't Level Up
+- The Promised Neverland
+- The Quintessential Quintuplets
+- The Reincarnation of the Strongest Onmyoji
+- The Rising of the Shield Hero
+- The Saint's Magic Power Is Omnipotent
+- The Seven Deadly Sins
+- The Strongest Magician in the Demon Lord's Army Was a Human
+- The Strongest Sage with the Weakest Crest
+- The Swordmaster's Son
+- The Tatami Galaxy
+- The Testament of Sister New Devil
+- The Tower of Druaga
+- The Tutorial Is Too Hard
+- The Tutorial Tower of the Advanced Player
+- The Unwanted Undead Adventurer
+- The Weakest Tamer Began a Journey to Pick Up Trash
+- The World After the Fall
+- The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+- The Wrong Way to Use Healing Magic
+- To Your Eternity
+- Tokyo Ghoul
+- Tokyo Revengers
+- Toradora!
+- Toriko
+- Tower of God
+- Trigun
+- Trinity Seven
+- Tsuki ga Kirei
+- Tsukimichi
+- Tsukimichi: Moonlit Fantasy
+- Tsurune
+- Twin Star Exorcists
+- Undead Girl Murder Farce
+- Undead Unluck
+- Uzaki-chan Wants to Hang Out!
+- Vampire Hunter D
+- Vanitas no Carte
+- Villainess Level 99
+- Vinland Saga
+- Violet Evergarden
+- Viral Hit
+- Vivy: Fluorite Eye's Song
+- Weak Hero
+- Weathering With You
+- White Album 2
+- Why Raeliana Ended Up at the Duke's Mansion
+- Wind Breaker
+- Wise Man's Grandchild
+- Wistoria: Wand and Sword
+- World Trigger
+- Yosuga no Sora
+- Your Lie in April
+- Your Name
+- Yu Yu Hakusho
+- Yu-Gi-Oh!
+- Yuri!!! on Ice
+- Zatch Bell!
